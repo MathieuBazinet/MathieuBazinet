@@ -70,6 +70,11 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 <section>
 <h2>Affiches</h2>
 <article>
+    <h3>Sample compression unleashed : New generalization bounds for real valued losses.</h3>
+    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain.</i>
+    <br>Affiche présentée dans le cadre du symposium d'intelligence artificielle de Montréal (MAIS) 2024, Montréal, Canada.</p>
+</article>
+<article>
     <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
     <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
     <br>Affiche présentée dans le cadre du congrès AntiMic 2024, Session «Innovative antimicrobial molecules of animal origin», Lille, France.</p>
@@ -135,6 +140,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 ## Expériences
 
 ### Reviewer
+* Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
 
@@ -142,7 +148,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 ### Auxiliaire d'enseignement en informatique
 
 * Algorithmique et programmation (IFT-1004)
-    * Automne 20224 (sous la supervision d'Honoré Hounwanou)
+    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
     * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 * Introduction à la programmation (IFT-1004)
     * Hiver 2024 (sous la supervision d'Honoré Hounwanou)
