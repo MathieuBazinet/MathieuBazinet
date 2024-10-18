@@ -36,9 +36,14 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 
 <section>
   <h2>Articles</h2>
-  J'ai plusieurs projets en cours de route, mais aucun n'a été publié pour l'instant. Restez alerte!
-    <article>
-    <h3>Sample compression unleashed : New generalization bounds for real valued losses.</h3>
+  <article>
+    <h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
+    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
+    <br><a href="https://arxiv.org/abs/2410.13577"><strong><font size="3">Version arXiv du papier</font></strong></a>
+  </p>
+  </article>
+  <article>
+    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
     <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
     <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a></p>
   </article>
@@ -58,6 +63,31 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
       <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet.</i>
       <br>Publié dans la thèse d'Aurore Cournoyer. Présentement en évaluation.
       <br><a href="https://github.com/MathieuBazinet/pef-ml"><strong><font size="3">Code du papier</font></strong></a></p>
+  </article>
+</section>
+
+<section>
+  <h2>Articles de workshop</h2>
+  <article>
+    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
+    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
+    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
+    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Page openReview (Pas encore publié, lien ari</font></strong></a> -->
+  </p>
+  </article>
+  <article>
+    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
+    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
+    <br> Papier accepté au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
+    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a> -->
+  </p>
+  </article>
+  <article>
+    <h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
+    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
+    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
+    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a> -->
+  </p>
   </article>
 </section>
 
@@ -145,6 +175,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 ## Expériences
 
 ### Reviewer
+* Reviewer pour le workshop M3L de NeurIPS 2024.
 * Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
