@@ -68,18 +68,18 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 
 <section>
   <h2>Articles de workshop</h2>
-  <article>
+    <article>
     <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
     <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
-    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Page openReview (Pas encore publié, lien ari</font></strong></a> -->
+    <br> Papier accepté au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
+    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a> -->
   </p>
   </article>
   <article>
     <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
     <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br> Papier accepté au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
-    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a> -->
+    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
+    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Page openReview (Pas encore publié, lien ari</font></strong></a> -->
   </p>
   </article>
   <article>
