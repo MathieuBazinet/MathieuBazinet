@@ -60,7 +60,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
     <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties of peptides and 
       filtration membranes on peptide migration during electrodialysis with filtration membranes</h3>
     <p><i>Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet.</i>
-      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/separation-and-purification-technology"><font size="3">Separation and Purification Technology</font></a>.
+      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/separation-and-purification-technology"><font size="3">Separation and Purification Technology</font></a> en décembre 2024.
     <br><a href="https://www.sciencedirect.com/science/article/pii/S1383586624046161"><strong><font size="3">Lien vers le papier</font></strong></a>
     <a href="https://github.com/MathieuBazinet/EDFM"><strong><font size="3">Code du papier</font></strong></a>
   </p>
@@ -69,7 +69,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
       <h3>How peptide migration and fraction bioactivity are modulated by electrical current modes during separation by an
         electromembrane process: A comprehensive machine learning-based peptidomic approach.</h3>
       <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet.</i>
-      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/food-research-international"><font size="3">Food Research International</font></a>.
+      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/food-research-international"><font size="3">Food Research International</font></a> en novembre 2024.
       <br><a href="https://www.sciencedirect.com/science/article/pii/S096399692401487X"><strong><font size="3">Lien vers le papier</font></strong></a>
       <a href="https://github.com/MathieuBazinet/pef-ml"><strong><font size="3">Code du papier</font></strong></a>
     </p>
@@ -82,12 +82,14 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 </section>
 
 <section>
+  <h2>Articles de workshop</h2>
   <article>
     <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
     <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
     <br> Papier accepté au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
     <br><a href="https://openreview.net/forum?id=QOl18v8Gfq"><strong><font size="3">Forum OpenReview</font></strong></a>
     <a href="https://openreview.net/pdf?id=QOl18v8Gfq"><strong><font size="3">Lien vers l'article</font></strong></a>
+    <a href="/files/poster_sample_compress_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
   </p>
   </article>
   <article>
@@ -96,6 +98,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
     <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
     <br><a href="https://openreview.net/forum?id=rutp5J4ks2"><strong><font size="3">Forum OpenReview</font></strong></a>
     <a href="https://openreview.net/pdf?id=rutp5J4ks2"><strong><font size="3">Lien vers l'article</font></strong></a>
+    <a href="/files/poster_sample_compress_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
   </p>
   </article>
   <article>
@@ -104,6 +107,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
     <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
     <br><a href="https://openreview.net/forum?id=7v8HzCUVbh"><strong><font size="3">Forum OpenReview</font></strong></a>
     <a href="https://openreview.net/pdf?id=7v8HzCUVbh"><strong><font size="3">Lien vers l'article</font></strong></a>
+    <a href="/files/poster_sample_compression_hypernetwork_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
   </p>
   </article>
 </section>
@@ -111,11 +115,17 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 <section>
 <h2>Actes de colloque</h2>
 <article>
+    <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
+    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
+    <br>Acte de colloque du congrès OHID- One Health International Days 2024, Session «Environment as part of One Health», Lille, France.
+    <br><a href="https://ohid.univ-lille.fr/fileadmin/user_upload/ohid-2022/OHID_2024_Book_of_abstracts.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
+</article>
+<article>
     <h3>How to induce selective separation of antimicrobial peptides by electrodialysis with filtration membrane?</h3>
     <p><i>Laurent Bazinet, Aurore Cournoyer, Gaétan Daigle, <strong>Mathieu Bazinet</strong>, Jacinthe Thibodeau</i>
     <br>Acte de colloque du conférence internationale ANTIMIC 2022, Hammamet, Tunisie.
-    <br><a href="https://antimic.ca/programmation/resume-dhaoudi/resume-bazinet"><strong><font size="3">Résumé</font></strong></a>
-    <a href="https://antimic.ca/fileadmin/Fichiers/BOOK_OF_ABSTRACTS_ANTIMIC_2022b.pdf"><strong><font size="3">Acte de colloque</font></strong></a></p>
+    <br><a href="https://antimic.ca/programmation/resume-dhaoudi/resume-bazinet"><strong><font size="4.5">Résumé</font></strong></a>
+    <a href="https://antimic.ca/fileadmin/Fichiers/BOOK_OF_ABSTRACTS_ANTIMIC_2022b.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
 </article>
 </section>
 
