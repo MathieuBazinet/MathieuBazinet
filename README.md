@@ -46,7 +46,8 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
   <article>
     <h3>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks.</h3>
     <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
-    <br>Version longue du papier <i>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning</i>. Version ArXiv à venir.
+    <br>Version longue du papier <i>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning</i>.
+    <br><a href="https://arxiv.org/abs/2410.13577"><strong><font size="3">Version arXiv du papier</font></strong></a>
   </p>
   </article>
   <article>
