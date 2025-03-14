@@ -39,8 +39,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
     <article>
     <h3>Sample Compression for Continual Learning.</h3>
     <p><i>Jacob Comeau, <strong>Mathieu Bazinet</strong>, Pascal Germain, Cem Subakan</i>
-    <!-- <br><a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a> -->
-    <br>Version ArXiv à venir.
+    <br><a href="https://arxiv.org/abs/2503.10503"><strong><font size="3">Version arXiv du papier</font></strong></a>
   </p>
   </article>
   <article>
