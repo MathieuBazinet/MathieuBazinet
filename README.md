@@ -6,6 +6,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 * Doctorat en intelligence artificielle, Université Laval, 2023 - 
   * Supervisé par Pascal Germain et Valentina Zantedeschi
   * Projet de recherche : Étude de nouveaux algorithmes d’apprentissage de représentation grâce aux bornes de généralisations
+    * Cours fini avec un score Laval de 4.33/4.33
 * Maîtrise en informatique - avec mémoire, Université Laval, 2022-2023
   * Supervisé par Pascal Germain
   * Projet de recherche : Méthodes de représentation parcimonieuse en apprentissage automatique grâce aux ondelettes
@@ -37,140 +38,132 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
   * Université Laval, Québec
 
 <section>
-  <h2>Articles</h2>
-  <article>
-    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
-    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br> Publié dans la conférence AISTATS 2025.
-    <br><a href="https://openreview.net/forum?id=0ynSy2dwNi"><strong><font size="3">Forum OpenReview</font></strong></a>
-    <a href="https://arxiv.org/abs/2409.17932"><strong><font size="3">Version arXiv du papier</font></strong></a>
-    <a href="https://github.com/GRAAL-Research/pick-to-learn"><strong><font size="3">Code du papier</font></strong></a></p>
-  </article>
-  <article>
-    <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties of peptides and 
-      filtration membranes on peptide migration during electrodialysis with filtration membranes</h3>
-    <p><i>Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet.</i>
-      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/separation-and-purification-technology"><font size="3">Separation and Purification Technology</font></a> en décembre 2024.
-    <br><a href="https://www.sciencedirect.com/science/article/pii/S1383586624046161"><strong><font size="3">Lien vers le papier</font></strong></a>
-    <a href="https://github.com/MathieuBazinet/EDFM"><strong><font size="3">Code du papier</font></strong></a>
-  </p>
-</article>
-  <article>
-      <h3>How peptide migration and fraction bioactivity are modulated by electrical current modes during separation by an
-        electromembrane process: A comprehensive machine learning-based peptidomic approach.</h3>
-      <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet.</i>
-      <br>Publié dans le journal <a href="https://www.sciencedirect.com/journal/food-research-international"><font size="3">Food Research International</font></a> en novembre 2024.
-      <br><a href="https://www.sciencedirect.com/science/article/pii/S096399692401487X"><strong><font size="3">Lien vers le papier</font></strong></a>
-      <a href="https://github.com/MathieuBazinet/pef-ml"><strong><font size="3">Code du papier</font></strong></a>
-    </p>
-  </article>
-</section>
-
-<section>
-  <h2>Prépublications</h2>
-  <article>
-    <h3>Sample Compression for Continual Learning.</h3>
-    <p><i>Jacob Comeau, <strong>Mathieu Bazinet</strong>, Pascal Germain, Cem Subakan</i>
-    <br><a href="https://arxiv.org/abs/2503.10503"><strong><font size="3">Version arXiv du papier</font></strong></a>
-  </p>
-  </article>
-  <article>
-    <h3>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks.</h3>
-    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
-    <br>Version longue du papier <i>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning</i>. 
-    <br><a href="https://arxiv.org/abs/2410.13577"><strong><font size="3">Version arXiv du papier</font></strong></a>
-  </p>
-  </article>
-  <article>
-    <h3>Wavelet-Based Feature Map for Kernel Approximation.</h3>
-    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br>Cet article a été soumis en 2023, mais n'a jamais été publié. À venir!</p>
-  </article>
-</section>
-
-<section>
-  <h2>Articles de workshop</h2>
-  <article>
-    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
-    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br> Papier accepté au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
-    <br><a href="https://openreview.net/forum?id=QOl18v8Gfq"><strong><font size="3">Forum OpenReview</font></strong></a>
-    <a href="https://openreview.net/pdf?id=QOl18v8Gfq"><strong><font size="3">Lien vers l'article</font></strong></a>
-    <a href="/files/poster_sample_compress_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
-  </p>
-  </article>
-  <article>
-    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
-    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
-    <br><a href="https://openreview.net/forum?id=rutp5J4ks2"><strong><font size="3">Forum OpenReview</font></strong></a>
-    <a href="https://openreview.net/pdf?id=rutp5J4ks2"><strong><font size="3">Lien vers l'article</font></strong></a>
-    <a href="/files/poster_sample_compress_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
-  </p>
-  </article>
-  <article>
-    <h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
-    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
-    <br> Papier accepté au Workshop on Machine Learning and Compression de NeurIPS 2024.
-    <br><a href="https://openreview.net/forum?id=7v8HzCUVbh"><strong><font size="3">Forum OpenReview</font></strong></a>
-    <a href="https://openreview.net/pdf?id=7v8HzCUVbh"><strong><font size="3">Lien vers l'article</font></strong></a>
-    <a href="/files/poster_sample_compression_hypernetwork_neurips.pdf"><strong><font size="3">Voir le poster</font></strong></a>
-  </p>
-  </article>
-</section>
-
-<section>
-<h2>Actes de colloque</h2>
+<h2>Articles</h2>
 <article>
-    <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
-    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
-    <br>Acte de colloque du congrès OHID- One Health International Days 2024, Session «Environment as part of One Health», Lille, France.
-    <br><a href="https://ohid.univ-lille.fr/fileadmin/user_upload/ohid-2022/OHID_2024_Book_of_abstracts.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
+<h3>Identification of antihypertensive, antidiabetic, and antioxidant peptides derived from hydrolysates of dairy white wastewaters containing milk proteins using machine learning insights</h3>
+<p>Diala Damen, Hairati Aboubacar, Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Juan de Toro-Martín, Sami Gaaloul, Safia Hamoudi, Benoit Cudennec, Laurent Bazinet
+<br>Publié dans le journal Food Research International, Jan 2026
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0963996926001705">Lien vers le papier</a>
+</p>
 </article>
 <article>
-    <h3>How to induce selective separation of antimicrobial peptides by electrodialysis with filtration membrane?</h3>
-    <p><i>Laurent Bazinet, Aurore Cournoyer, Gaétan Daigle, <strong>Mathieu Bazinet</strong>, Jacinthe Thibodeau</i>
-    <br>Acte de colloque du conférence internationale ANTIMIC 2022, Hammamet, Tunisie.
-    <br><a href="https://antimic.ca/programmation/resume-dhaoudi/resume-bazinet"><strong><font size="4.5">Résumé</font></strong></a>
-    <a href="https://antimic.ca/fileadmin/Fichiers/BOOK_OF_ABSTRACTS_ANTIMIC_2022b.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
+<h3>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks</h3>
+<p>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain
+<br>Publié dans la conférence ICML 2025
+<br>Version longue du papier <i>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning</i>.
+<br>
+<a href="https://openreview.net/forum?id=Qn6yZb5iLC">OpenReview</a>
+<a href="https://arxiv.org/abs/2410.13577">ArXiv</a>
+<a href="https://github.com/GRAAL-Research/DeepRM">Code</a>
+</p>
+</article>
+<article>
+<h3>Sample Compression Unleashed: New Generalization Bounds for Real Valued Losses</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>Publié dans la conférence AISTATS 2025
+<br>
+<a href="https://openreview.net/forum?id=0ynSy2dwNi">OpenReview</a>
+<a href="https://arxiv.org/abs/2409.17932">ArXiv</a>
+<a href="https://github.com/GRAAL-Research/pick-to-learn">Code</a>
+</p>
+</article>
+<article>
+<h3>Application of machine learning tools to study the synergistic impact of physicochemical properties.</h3>
+<p>Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet
+<br>Publié dans le journal Separation and Purification Technology, Dec 2024
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1383586624046161">Lien vers le papier</a>
+<a href="https://github.com/MathieuBazinet/EDFM">Code</a>
+</p>
+</article>
+<article>
+<h3>How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach</h3>
+<p>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet
+<br>Publié dans le journal Food Research International, Nov 2024
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S096399692401487X">Lien vers le papier</a>
+<a href="https://github.com/MathieuBazinet/pef-ml">Code</a>
+</p>
 </article>
 </section>
 
 <section>
-<h2>Affiches</h2>
+<h2>Preprints et articles en soumission</h2>
 <article>
-    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
-    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
-    <br>Affiche présentée au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
-    <br>Affiche présentée au Workshop on Machine Learning and Compression de NeurIPS 2024.
-    <br>Affiche présentée dans le cadre du symposium d'intelligence artificielle de Montréal (MAIS) 2024, Montréal, Canada.</p>
-  </p>
-  </article>
-  <article>
-    <h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
-    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
-    <br>Affiche présentée au Workshop on Machine Learning and Compression de NeurIPS 2024.
-  </p>
-  </article>
+<h3>How hydrolysis duration and discoloration affected on peptide population and antimicrobial activity of chicken cruor hydrolysates</h3>
+<p>Delasa Rahimi, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Ismail Fliss, Sergey Mikaylin, Laurent Bazinet
+<br>En révision dans Food Research International.
+<br></article>
 <article>
-    <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
-    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
-    <br>Affiche présentée dans le cadre du congrès AntiMic 2024, Session «Innovative antimicrobial molecules of animal origin», Lille, France.</p>
+<h3>Identification of novel antifungal peptides using an integrated peptidomics and machine learning approach on raw and discolored turkey cruor hydrolysates</h3>
+<p>Houssine Fliss, <strong>Mathieu Bazinet</strong>, Sara Garcia-Vela, Jacinthe Thibodeau, Laurent Bazinet, Sergey Mikhaylin
+<br>En soumission dans Food Chemistry
+<br></article>
+<article>
+<h3>Sample Compression for Self-Certified Continual Learning</h3>
+<p>Jacob Comeau*, <strong>Mathieu Bazinet</strong>*, Pascal Germain, Cem Subakan
+<br>* indique une contribution égale.
+<br>
+<a href="https://arxiv.org/abs/2503.10503">Link to paper</a>
+</p>
 </article>
 <article>
-    <h3>How selective peptide migration is induced by electrical current modes during electrodialysis with ultrafiltration: A comprehensive machine learning-based peptidomic approach.</h3>
-    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Laurent Bazinet</i>
-    <br>Affiche présentée dans le cadre du Congrès International Bénéfiq 2023, Québec, Canada.</p>
+<h3>Wavelet-Based Feature Map for Kernel Approximation.</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>Cet article a été soumis en 2023, mais n'a jamais été publié.
+<br></article>
+</section>
+
+<section>
+<h2>Articles de workshop</h2>
+<article>
+<h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>Workshop on Mathematics of Modern Machine Learning of NeurIPS 2024
+<br>
+<a href="https://openreview.net/forum?id=QOl18v8Gfq">OpenReview</a>
+<a href="/files/poster_sample_compress_neurips.pdf">Poster</a>
+</p>
 </article>
 <article>
-    <h3>Machine learning-based peptidomic approach to identify electrical current modes associated phenomena inducing selective peptide migration in electrodialysis with ultrafiltration membrane.</h3>
-    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Laurent Bazinet</i>
-    <br>Affiche présentée dans le cadre du Symposium International GreenFoodTech 2023, Montréal, Canada.</p>
+<h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>Workshop on Machine Learning and Compression of NeurIPS 2024
+<br>
+<a href="https://openreview.net/forum?id=rutp5J4ks2">OpenReview forum</a>
+<a href="/files/poster_sample_compress_neurips.pdf">Poster</a>
+</p>
+</article>
+<article>
+<h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
+<p>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain
+<br>Workshop on Machine Learning and Compression of NeurIPS 2024
+<br>
+<a href="https://openreview.net/forum?id=7v8HzCUVbh">OpenReview</a>
+<a href="/files/poster_sample_compression_hypernetwork_neurips.pdf">Poster</a>
+</p>
 </article>
 </section>
 
 <section>
 <h2>Présentations orales</h2>
+<article>
+    <h3>Séparation de peptides bioactifs par électrodialyse avec membrane de filtration : Des applications aux coproduits marins à l’intelligence artificielle.</h3>
+    <p><i>Laurent Bazinet, Rachel Durand, Loïc Hénaux, Aurore Cournoyer, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Marie-Ève Bernier, Hairati Aboubacar,  
+Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, Benoit Cudennec, Geneviève Pilon, Pascal Germain, André Marette. </i>
+    <br>Présentation orale présentée lors du Symposium Tuniso-Canadien sur les produits marins «Enjeux, innovations et opportunités pour une gestion durable», Session 3 «Valorisation des co-produits marins», Tunis (Tunisie).</p>
+</article>
+<article>
+    <h3><strong>Machine learning for bioactive peptide identification and understanding of bio-processes</strong></h3>
+    <p><i>Laurent Bazinet, Aurore Cournoyer, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Marie-Ève Bernier, Hairati Aboubacar, Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, Benoit Cudennec, Pascal Germain.</i>
+    <br>Présentation orale présentée lors du congrès international GreenFoodTech 2025 «Transformation durable pour l’alimentation de demain», Saint-Malo (France).</p>
+</article>
+<article>
+    <h3>How hydrolysis duration and discoloration impact peptide population and antimicrobial activities of chicken cruor hydrolysates.</h3>
+    <p><i>Delasa Rahimi, <strong>Mathieu Bazinet</strong>, Zain Sanchez-Reinoso, Juan de Toro-Martín, Ismail Fliss, Sergey Mikhaylin, Laurent Bazinet.</i>
+    <br>Présentation orale présentée lors du symposium étudiants de l’INAF «Alimentation durable : Cultivons notre santé et celle de notre planète», Thème 3 «Peptides et protéines», Québec (QC).</p>
+</article>
 <article>
     <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
     <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
@@ -215,10 +208,79 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 </article>
 </section>
 
+<section>
+<h2>Actes de colloque</h2>
+<article>
+    <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
+    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
+    <br>Acte de colloque du congrès OHID- One Health International Days 2024, Session «Environment as part of One Health», Lille, France.
+    <br><a href="https://ohid.univ-lille.fr/fileadmin/user_upload/ohid-2022/OHID_2024_Book_of_abstracts.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
+</article>
+<article>
+    <h3>How to induce selective separation of antimicrobial peptides by electrodialysis with filtration membrane?</h3>
+    <p><i>Laurent Bazinet, Aurore Cournoyer, Gaétan Daigle, <strong>Mathieu Bazinet</strong>, Jacinthe Thibodeau</i>
+    <br>Acte de colloque du conférence internationale ANTIMIC 2022, Hammamet, Tunisie.
+    <br><a href="https://antimic.ca/programmation/resume-dhaoudi/resume-bazinet"><strong><font size="4.5">Résumé</font></strong></a>
+    <a href="https://antimic.ca/fileadmin/Fichiers/BOOK_OF_ABSTRACTS_ANTIMIC_2022b.pdf"><strong><font size="4.5">Acte de colloque</font></strong></a></p>
+</article>
+</section>
+
+<section>
+<h2>Affiches</h2>
+<article>
+    <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
+    <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
+    <br>Affiche présentée à la conférence internationale en Intelligence Artificielle et Statistiques (AISTATS) 2025.
+    <br>Affiche présentée au Workshop on Mathematics of Modern Machine Learning de NeurIPS 2024.
+    <br>Affiche présentée au Workshop on Machine Learning and Compression de NeurIPS 2024.
+    <br>Affiche présentée dans le cadre du symposium d'intelligence artificielle de Montréal (MAIS) 2024, Montréal, Canada.
+    <br><a href="/files/poster_sample_compress_aistats.pdf"><strong><font size="3">Voir le poster de AISTATS</font></strong></a>
+    <br><a href="/files/poster_sample_compress_neurips.pdf"><strong><font size="3">Voir le poster de NeurIPS</font></strong></a>
+    <br><a href="/files/poster_sample_compress_MAIS.pdf"><strong><font size="3">Voir le poster du MAIS</font></strong></a></p>
+  </p>
+  </article>
+    <article>
+    <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties of peptides and filtration membranes on peptide migration during electrodialysis with filtration membranes. </h3>
+    <p><i>Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet.</i>
+    <br>Affiche présentée lors du congrès international GreenFoodTech 2025 «Transformation durable pour l’alimentation de demain»
+  </p>
+  </article>
+  <article>
+    <h3>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning.</h3>
+    <p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
+    <br>Affiche présentée à la conférence internationale d'apprentissage automatique (ICML) 2025.
+    <br>Affiche présentée au Workshop on Machine Learning and Compression de NeurIPS 2024.
+    <br><a href="/files/poster_sample_compression_hypernetwork_icml.pdf"><strong><font size="3">Voir le poster de ICML</font></strong></a>
+    <br><a href="/files/poster_sample_compression_hypernetwork_neurips.pdf"><strong><font size="3">Voir le poster de NeurIPS</font></strong></a>
+  </p>
+  </article>
+<article>
+    <h3>Influence of electric current conditions on peptide migration and fraction antimicrobial activities during electrodialysis with ultrafiltration membrane: a comprehensive machine learning-peptidomic study.</h3>
+    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</i>
+    <br>Affiche présentée dans le cadre du congrès AntiMic 2024, Session «Innovative antimicrobial molecules of animal origin», Lille, France.</p>
+</article>
+<article>
+    <h3>How selective peptide migration is induced by electrical current modes during electrodialysis with ultrafiltration: A comprehensive machine learning-based peptidomic approach.</h3>
+    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Laurent Bazinet</i>
+    <br>Affiche présentée dans le cadre du Congrès International Bénéfiq 2023, Québec, Canada.</p>
+</article>
+<article>
+    <h3>Machine learning-based peptidomic approach to identify electrical current modes associated phenomena inducing selective peptide migration in electrodialysis with ultrafiltration membrane.</h3>
+    <p><i>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Laurent Bazinet</i>
+    <br>Affiche présentée dans le cadre du Symposium International GreenFoodTech 2023, Montréal, Canada.</p>
+</article>
+</section>
+
+
 ## Expériences
 
 ### Reviewer
-* Reviewer pour le workshop M3L de NeurIPS 2024.
+* Reviewer pour la conférence AISTATS 2026
+* Reviewer pour le journal Food Research International
+* Reviewer pour la conférence NeurIPS 2025
+* Reviewer pour le workshop des méthodes et opportunités à petite échelle (MOSS) à ICML 2025
+* Reviewer pour la 35ème édition du workshop IEEE MLSP
+* Reviewer pour le workshop de M3L à NeurIPS 2024
 * Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
@@ -226,17 +288,25 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
 
 ### Auxiliaire d'enseignement en informatique
 
-* Algorithmique et programmation (IFT-1004)
-    * Hiver 2025 (sous la supervision de Pascal Germain)
-    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
-    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
-* Introduction à la programmation (IFT-1004)
-    * Hiver 2024 (sous la supervision d'Honoré Hounwanou)
-    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
+* Initiation à l'apprentissage automatique (IFT-2009)
+    * Hiver 2026 (sous la supervision de Anthony Deschênes)
+    * Concevoir les laboratoires du cours. Animer les laboratoires.
 * Apprentissage automatique pour le traitement de signal (IFT-4030 / IFT-7030)
+    * Automne 2025 (sous la supervision de Cem Subakan)
     * Automne 2023 (sous la supervision de Cem Subakan)
     * Animer les laboratoires du cours. Répondre aux questions des étudiants.
     * Corriger les examens. Définir une grille de critères de réussite.
+* Algorithmique et programmation (IFT-1004)
+    * Automne 2025 (sous la supervision de Pascal Germain)
+    * Hiver 2025 (sous la supervision de Pascal Germain)
+    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
+    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
+* Programmation et mathématiques pour la science des données (IFT-4021/IFT-7021)
+    * Été 2025 (sous la supervision de Pascal Germain)
+    * Corriger les travaux pratiques.
+* Introduction à la programmation (IFT-1004)
+    * Hiver 2024 (sous la supervision d'Honoré Hounwanou)
+    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 
 ### Auxiliaire d'enseignement en mathématiques - tutorat
 * Tuteur au Centre d'aide en mathématiques et statistique (CDA)
@@ -247,7 +317,7 @@ For an english version, see my [website](https://mathieubazinet.github.io/eng/cv
     * Automne 2021 et Automne 2023
     * Tutorat privé pour les étudiants
 
-### Auxiliaire d'enseignement en mathématiques - correction
+###Auxiliaire d'enseignement en mathématiques - correction
 * Algèbre vectorielle (MAT-0130)
     * Automne 2020 (sous la supervision de Thierry Duchesne)
     * Hiver 2021 (sous la supervision de Thierry Duchesne)
@@ -294,4 +364,4 @@ Stage en développement logiciel en géométrie 3D	chez InnovMetric Logiciels In
   * Python (avancé)
   * C++ (avancé)
   * R (avancé)
-  * et autres!
+  * et autres (tel que Matlab, C#, MiniZinc, Prolog)!
