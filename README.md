@@ -130,6 +130,18 @@
 <section>
 <h2>Preprints et articles en soumission</h2>
 <article>
+<h3>Bound to Disagree : Generalization Bounds via Certifiable Surrogates</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>
+<a href="">Lien vers le papier</a>
+</p>
+</article>
+<article>
+<h3>Effects of Pulsed Electric Field Pulse/Pause Combination on Anionic Peptide Migration During Electromembrane Separation of a Whey Protein Hydrolysate: A Machine Learning-Based Comprehensive Study.</h3>
+<p>Leonel Cedrick Mafotang Tasgue, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet
+<br>En soumission dans Food Research International.
+<br></article>
+<article>
 <h3>How hydrolysis duration and discoloration affected on peptide population and antimicrobial activity of chicken cruor hydrolysates</h3>
 <p>Delasa Rahimi, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Ismail Fliss, Sergey Mikaylin, Laurent Bazinet
 <br>En révision dans Food Research International.
@@ -137,14 +149,14 @@
 <article>
 <h3>Identification of novel antifungal peptides using an integrated peptidomics and machine learning approach on raw and discolored turkey cruor hydrolysates</h3>
 <p>Houssine Fliss, <strong>Mathieu Bazinet</strong>, Sara Garcia-Vela, Jacinthe Thibodeau, Laurent Bazinet, Sergey Mikhaylin
-<br>En soumission dans Food Chemistry
+<br>En révision dans Food Chemistry
 <br></article>
 <article>
 <h3>Sample Compression for Self-Certified Continual Learning</h3>
 <p>Jacob Comeau*, <strong>Mathieu Bazinet</strong>*, Pascal Germain, Cem Subakan
 <br>* indique une contribution égale.
 <br>
-<a href="https://arxiv.org/abs/2503.10503">Link to paper</a>
+<a href="https://arxiv.org/abs/2503.10503">Lien vers le papier</a>
 </p>
 </article>
 <article>
@@ -334,26 +346,6 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 </ul>
 </section>
 <section>
-<h2>Auxiliaire d'enseignement en mathématiques – tutorat</h2>
-<ul>
-<li>
-<strong>Tuteur au Centre d'aide en mathématiques et statistique (CDA)</strong>
-<ul>
-<li>Automne 2023 à Hiver 2023</li>
-<li>Tutorat privé pour étudiants</li>
-<li>Support pour plus de 15 cours en mathématiques</li>
-</ul>
-</li>
-<li>
-<strong>Tuteur privé – Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
-<ul>
-<li>Automne 2021 et Automne 2023</li>
-<li>Tutorat privé pour étudiants</li>
-</ul>
-</li>
-</ul>
-</section>
-<section>
 <h2>Auxiliaire d'enseignement en mathématiques – correction</h2>
 <ul>
 <li>
@@ -363,6 +355,13 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <li>Hiver 2021 (sous la supervision de Thierry Duchesne)</li>
 <li>Automne 2021 (sous la supervision de Thierry Duchesne)</li>
 <li>Été 2022 (sous la supervision de Thierry Duchesne)</li>
+<li>Hiver 2026</li>
+</ul>
+</li>
+<li>
+<strong>Calcul intégral et probabilités (MAT‑0250)</strong>
+<ul>
+<li>Hiver 2026</li>
 </ul>
 </li>
 <li>
@@ -383,6 +382,26 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <ul>
 <li>Automne 2021 (sous la supervision de Bernard Hodgson)</li>
 <li>Automne 2022 (sous la supervision de Bernard Hodgson)</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Auxiliaire d'enseignement en mathématiques – tutorat</h2>
+<ul>
+<li>
+<strong>Tuteur au Centre d'aide en mathématiques et statistique (CDA)</strong>
+<ul>
+<li>Automne 2023 à Hiver 2023</li>
+<li>Tutorat privé pour étudiants</li>
+<li>Support pour plus de 15 cours en mathématiques</li>
+</ul>
+</li>
+<li>
+<strong>Tuteur privé – Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
+<ul>
+<li>Automne 2021 et Automne 2023</li>
+<li>Tutorat privé pour étudiants</li>
 </ul>
 </li>
 </ul>
