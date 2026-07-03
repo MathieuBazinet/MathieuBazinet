@@ -77,11 +77,48 @@
 </ul>
 </section>
 <section>
-<h2>Articles</h2>
+<h2 id="articles">Articles</h2>
+<article>
+<h3>Bound to Disagree : Generalization Bounds via Certifiable Surrogates</h3>
+<p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
+<br>Publié dans la conférence UAI 2026
+<br>Accepté comme présentation orale (top 2% des soumissions)
+<br>
+<!-- <a href="https://openreview.net/forum?id=Qn6yZb5iLC">OpenReview</a> -->
+<a href="https://arxiv.org/pdf/2602.23128">ArXiv</a>
+<a href="https://github.com/GRAAL-Research/Bound-to-Disagree">Code</a>
+</p>
+</article>
+<article>
+<h3>Effects of pulsed electric field parameters on anionic peptide migration during Electromembrane separation of a whey protein hydrolysate: A machine learning comprehensive study</h3>
+<p>Leonel Cedrick Mafotang Tsague, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet
+<br>Food Research International, Mai 2026
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0963996926012457">Lien vers le papier</a>
+</p>
+</article>
+<article>
+<h3>Valorization of turkey cruor through peptic hydrolysis: peptidomics and machine learning approaches for the identification of antimicrobial peptides</h3>
+<p>Houssine Fliss, <strong>Mathieu Bazinet</strong>, Sara García-Vela, Jacinthe Thibodeau, Laurent Bazinet, Sergey Mikhaylin
+<br>Publié dans le journal Food Chemistry, Avril 2026
+    
+<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0308814626012823">Lien vers le papier</a>
+</p>
+</article>
+<article>
+<h3>Impact of hydrolysis duration and discoloration on peptide profiles and antimicrobial properties in chicken cruor hydrolysates: Identification of five novel antifungal peptides</h3>
+<p>Delasa Rahimi, <strong>Mathieu Bazinet</strong>, Zain Sanchez-Reinoso, Sara García-Vela, Juan de Toro-Martín, Sergey Mikaylin, Laurent Bazinet
+<br>Publié dans le journal Food Chemistry, Mars 2026
+    
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0308814626009210">Lien vers le papier</a>
+</p>
+</article>
 <article>
 <h3>Identification of antihypertensive, antidiabetic, and antioxidant peptides derived from hydrolysates of dairy white wastewaters containing milk proteins using machine learning insights</h3>
 <p>Diala Damen, Hairati Aboubacar, Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Juan de Toro-Martín, Sami Gaaloul, Safia Hamoudi, Benoit Cudennec, Laurent Bazinet
-<br>Publié dans le journal Food Research International, Jan 2026
+<br>Publié dans le journal Food Research International, Janvier 2026
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0963996926001705">Lien vers le papier</a>
 </p>
@@ -110,7 +147,7 @@
 <article>
 <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties.</h3>
 <p>Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet
-<br>Publié dans le journal Separation and Purification Technology, Dec 2024
+<br>Publié dans le journal Separation and Purification Technology, Décembre 2024
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1383586624046161">Lien vers le papier</a>
 <a href="https://github.com/MathieuBazinet/EDFM">Code</a>
@@ -119,7 +156,7 @@
 <article>
 <h3>How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach</h3>
 <p>Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet
-<br>Publié dans le journal Food Research International, Nov 2024
+<br>Publié dans le journal Food Research International, Novembre 2024
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S096399692401487X">Lien vers le papier</a>
 <a href="https://github.com/MathieuBazinet/pef-ml">Code</a>
@@ -128,23 +165,13 @@
 </section>
 
 <section>
-<h2>Preprints et articles en soumission</h2>
-<article>
-<h3>How hydrolysis duration and discoloration affected on peptide population and antimicrobial activity of chicken cruor hydrolysates</h3>
-<p>Delasa Rahimi, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Ismail Fliss, Sergey Mikaylin, Laurent Bazinet
-<br>En révision dans Food Research International.
-<br></article>
-<article>
-<h3>Identification of novel antifungal peptides using an integrated peptidomics and machine learning approach on raw and discolored turkey cruor hydrolysates</h3>
-<p>Houssine Fliss, <strong>Mathieu Bazinet</strong>, Sara Garcia-Vela, Jacinthe Thibodeau, Laurent Bazinet, Sergey Mikhaylin
-<br>En soumission dans Food Chemistry
-<br></article>
+<h2 id="preprint">Preprints et articles en soumission</h2>
 <article>
 <h3>Sample Compression for Self-Certified Continual Learning</h3>
 <p>Jacob Comeau*, <strong>Mathieu Bazinet</strong>*, Pascal Germain, Cem Subakan
 <br>* indique une contribution égale.
 <br>
-<a href="https://arxiv.org/abs/2503.10503">Link to paper</a>
+<a href="https://arxiv.org/abs/2503.10503">Lien vers le papier</a>
 </p>
 </article>
 <article>
@@ -155,7 +182,7 @@
 </section>
 
 <section>
-<h2>Articles de workshop</h2>
+<h2 id="workshop">Articles de workshop</h2>
 <article>
 <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
 <p><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain
@@ -187,6 +214,11 @@
 
 <section>
 <h2>Présentations orales</h2>
+<article>
+<h3>Bound to Disagree: Generalization Bounds via Certifiable Surrogates.</h3>
+<p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain </i>
+<br/>Présentation orale présentée lors de la conference Uncertainty In Artificial Intelligence (UAI), 18 au 20 août 2026, Amsterdam (Pays-Bas).</p>
+</article>
 <article>
 <h3>Séparation de peptides bioactifs par électrodialyse avec membrane de filtration : Des applications aux coproduits marins à l’intelligence artificielle.</h3>
 <p><i>Laurent Bazinet, Rachel Durand, Loïc Hénaux, Aurore Cournoyer, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Marie-Ève Bernier, Hairati Aboubacar,  
@@ -265,6 +297,18 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <section>
 <h2>Affiches</h2>
 <article>
+<h3>Bound to Disagree: Generalization Bounds via Certifiable Surrogates.</h3>
+<p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
+<br/>Affiche présentée lors de la conference Uncertainty In Artificial Intelligence (UAI), 18 au 20 août 2026, Amsterdam (Pays-Bas).
+    </p>
+</article>
+<article>
+<h3>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks.</h3>
+<p><i>Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</i>
+<br/>Affiche présentée à la conférence internationale d'apprentissage automatique (ICML) 2025.
+<br/><a href="/files/poster_sample_compression_hypernetwork_icml.pdf"><strong><font size="3">Voir le poster de ICML</font></strong></a>
+</p></article>
+<article>
 <h3>Sample Compression Unleashed : New Generalization Bounds for Real Valued Losses.</h3>
 <p><i><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</i>
 <br/>Affiche présentée à la conférence internationale en Intelligence Artificielle et Statistiques (AISTATS) 2025.
@@ -278,6 +322,7 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <section>
 <h2>Reviewer</h2>
 <ul>
+<li>Reviewer pour la conférence UAI 2026 (reconnu comme Top Reviewer)</li>
 <li>Reviewer pour la conférence AISTATS 2026</li>
 <li>Reviewer pour le journal Food Research International</li>
 <li>Reviewer pour la conférence NeurIPS 2025</li>
@@ -334,26 +379,6 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 </ul>
 </section>
 <section>
-<h2>Auxiliaire d'enseignement en mathématiques – tutorat</h2>
-<ul>
-<li>
-<strong>Tuteur au Centre d'aide en mathématiques et statistique (CDA)</strong>
-<ul>
-<li>Automne 2023 à Hiver 2023</li>
-<li>Tutorat privé pour étudiants</li>
-<li>Support pour plus de 15 cours en mathématiques</li>
-</ul>
-</li>
-<li>
-<strong>Tuteur privé – Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
-<ul>
-<li>Automne 2021 et Automne 2023</li>
-<li>Tutorat privé pour étudiants</li>
-</ul>
-</li>
-</ul>
-</section>
-<section>
 <h2>Auxiliaire d'enseignement en mathématiques – correction</h2>
 <ul>
 <li>
@@ -363,6 +388,13 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <li>Hiver 2021 (sous la supervision de Thierry Duchesne)</li>
 <li>Automne 2021 (sous la supervision de Thierry Duchesne)</li>
 <li>Été 2022 (sous la supervision de Thierry Duchesne)</li>
+<li>Hiver 2026</li>
+</ul>
+</li>
+<li>
+<strong>Calcul intégral et probabilités (MAT‑0250)</strong>
+<ul>
+<li>Hiver 2026</li>
 </ul>
 </li>
 <li>
@@ -383,6 +415,26 @@ Juan de Toro-Martín, Jean-Pierre Clément, Marie-Claude Vohl, Rozenn Ravallec, 
 <ul>
 <li>Automne 2021 (sous la supervision de Bernard Hodgson)</li>
 <li>Automne 2022 (sous la supervision de Bernard Hodgson)</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Auxiliaire d'enseignement en mathématiques – tutorat</h2>
+<ul>
+<li>
+<strong>Tuteur au Centre d'aide en mathématiques et statistique (CDA)</strong>
+<ul>
+<li>Automne 2021 à Hiver 2023</li>
+<li>Tutorat privé pour étudiants</li>
+<li>Support pour plus de 15 cours en mathématiques</li>
+</ul>
+</li>
+<li>
+<strong>Tuteur privé – Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
+<ul>
+<li>Automne 2021 et Automne 2022</li>
+<li>Tutorat privé pour étudiants</li>
 </ul>
 </li>
 </ul>
